@@ -1,6 +1,6 @@
 name = "Rusticl_jll"
 uuid = "0e9524f4-d8d1-5353-8bd4-6e7599f5f54e"
-version = "25.2.0+0"
+version = "25.2.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

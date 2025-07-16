@@ -1,18 +1,18 @@
 [[Rusticl]]
 arch = "aarch64"
-git-tree-sha1 = "91c125e87aa55e960f77e83da25997a33490b9e5"
+git-tree-sha1 = "f1d24eb0d4f6ac4a5edd678f36dccfda4fdce9e8"
 libc = "glibc"
 os = "linux"
 
     [[Rusticl.download]]
-    sha256 = "1e40878b6fc51d38af514745dc1b43d740848b48c6c342f6e002b035a593b682"
-    url = "https://github.com/JuliaBinaryWrappers/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+0/Rusticl.v25.2.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "a4b76b1e330f32353aa9c3eb43dc1d7728bd55a576f1cc471b4becf98cff250b"
+    url = "https://github.com/JuliaBinaryWrappers/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+1/Rusticl.v25.2.0.aarch64-linux-gnu.tar.gz"
 [[Rusticl]]
 arch = "x86_64"
-git-tree-sha1 = "253fc1e87c2e02b1dedd57a9e88c0e1cc7dc0a8e"
+git-tree-sha1 = "87cb72b274b11a198ec57f2c9059ce2c984eb08d"
 libc = "glibc"
 os = "linux"
 
     [[Rusticl.download]]
-    sha256 = "a78812f76e61396ff179cf20db4519c53f2eee5489fe4389655981bf325945f2"
-    url = "https://github.com/JuliaBinaryWrappers/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+0/Rusticl.v25.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "9ee9373f77f951b4030b1bf4b5da37de93d36eef606ae7a76405fa0f823c0f03"
+    url = "https://github.com/JuliaBinaryWrappers/Rusticl_jll.jl/releases/download/Rusticl-v25.2.0+1/Rusticl.v25.2.0.x86_64-linux-gnu.tar.gz"
